@@ -1,0 +1,4 @@
+Box-sizing: When we set the width on an element, like a 100px, 
+that's going to factor in the width of the border. So we are 
+not just setting the width of the content, we're also factoring 
+in the border width, so the overall width will be 100.
